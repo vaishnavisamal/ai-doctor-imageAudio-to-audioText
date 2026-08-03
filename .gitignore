@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio files
+*.mp3
+
+# Images (if only used for testing)
+konda.jpg
+rash.jpg
+patient_voice_test_for_patient.mp3
+
+# IDE
+.vscode/
+.idea/
