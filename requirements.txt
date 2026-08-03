@@ -1,8 +1,10 @@
 groq
-speechrecognition
-pydub
-pyaudio
-gtts
-edge-tts
 gradio
 python-dotenv
+SpeechRecognition
+pydub
+gTTS
+edge-tts
+Pillow
+requests
+httpx
